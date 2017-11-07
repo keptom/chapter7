@@ -140,8 +140,10 @@ def getpath():
 
 
 
+if __name__ == '__main__':
+
 
     
  mail()
- return str(main())
-    
+ maiin()
+ return main()
