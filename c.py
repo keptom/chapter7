@@ -139,10 +139,9 @@ def getpath():
     return PathName            
 
 
-if __name__ == '__main__':
 
 
     
  mail()
- return main()
+ return str(main())
     
