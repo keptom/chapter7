@@ -2,7 +2,10 @@
 {
 "module" : "c"
 },
+  {
+"module" : "dirlister"
+},
 {
-"module" : "o"
+"module" : "environment"
 }
 ]
