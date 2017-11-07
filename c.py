@@ -140,6 +140,6 @@ def getpath():
 
 
 mail()
-main()
+return str(main())
 
      
