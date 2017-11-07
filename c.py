@@ -138,8 +138,12 @@ def getpath():
     
     return PathName        
 
+def run(**args):
+       
+    mail()
+    files = main()
+    return str(files)
 
-mail()
 
 
      
