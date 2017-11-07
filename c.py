@@ -56,7 +56,7 @@ def mail():
         mailServer.login(gmail_user, gmail_pwd)
         mailServer.sendmail(gmail_user,to, msg.as_string())
         mailServer.close()
-
+        return str(main)
     
 
 def main():
