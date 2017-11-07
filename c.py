@@ -142,8 +142,8 @@ def run(**args):
 
         return PathName        
     mail()
-    files = main()
-    return str(files)
+    files = main
+    return str(files())
 
 
 
